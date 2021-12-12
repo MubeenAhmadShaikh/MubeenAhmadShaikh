@@ -16,6 +16,5 @@ A learning enthusiast 🎯
 
 - First Portfolio 📄
 - Dice-Game 🎲
-- Rock-Paper-Scissor - Dice-Game 🎲
 - Rock-Paper-Scissor 💯
 - Black-jack Game 🃏
