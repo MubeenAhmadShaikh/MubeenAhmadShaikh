@@ -16,7 +16,7 @@ A learning enthusiast 🎯
 ### Languages and Tools 🛠
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="![html-5](https://user-images.githubusercontent.com/81980180/145706123-c9577153-5a68-456d-8923-d8134f3ba68e.png)" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="26px" src="![css3](https://user-images.githubusercontent.com/81980180/145706131-c6f3a50d-b52c-4ac4-b4f0-9664395eec93.png)" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="![css3](https://user-images.githubusercontent.com/81980180/145707965-e2fe1dbd-6a57-49f4-80a1-d14d7a5f3f09.png)" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="![bootstrap](https://user-images.githubusercontent.com/81980180/145706130-e7750a93-b03e-44ab-97d4-0395c0afb225.png)" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="![vscode](https://user-images.githubusercontent.com/81980180/145706127-082ac9d3-2393-44d7-9909-be519c5f16f6.png)" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="![github](https://user-images.githubusercontent.com/81980180/145706126-e042bc71-a5c9-44f6-8e75-4218462491e5.png)" />][webdevplaylist]
