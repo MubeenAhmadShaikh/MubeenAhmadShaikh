@@ -12,9 +12,4 @@ A learning enthusiast 🎯
 - 🧐 Currently working on my #100DaysOfCode Challenge.
 - ⚡ 2022 Goal: Contribute to Open Source projects.
 
-### 🚧 Mini Pojects
 
-- First Portfolio 📄
-- Dice-Game 🎲
-- Rock-Paper-Scissor 💯
-- Black-jack Game 🃏
