@@ -5,11 +5,11 @@
 ## Hello People, I'm Mubeen 👋
 
 A learning enthusiast 🎯
-## I'm a Student Learning Web Development and Exploring New Things ❕
+## I'm a Full time QA/Analyst currently I'm Learning web development and exploring new things ❕
 
 - 😄 I'm Learning Web Development.
 - 👨‍💻 Focusing On JavaScript.
-- 🧐 Currently working on my #100DaysOfCode Challenge.
+- 🧐 Currently working on my #100DaysOfCode Challenge and frontendmentor.io challenges.
 - ⚡ 2022 Goal: Contribute to Open Source projects.
 
 
