@@ -5,10 +5,10 @@
 ## Hello People, I'm Mubeen 👋
 
 A learning enthusiast 🎯
-## I'm a Full time QA/Analyst currently I'm Learning web development and exploring new things ❕
+## I'm a Full time QA Engineer/Analyst, part of a non-profitable organization #TEDxRambaug and doing my Masters. Currently I'm imporoving my Full Stack Development skills and exploring new things ❕
 
-- 😄 I'm Learning Web Development.
-- 👨‍💻 Focusing On JavaScript.
+- 😄 I'm imporoving my full stack skills.
+- 👨‍💻 Focusing On JavaScript and NodeJS.
 - 🧐 Currently working on my #100DaysOfCode Challenge and frontendmentor.io challenges.
 - ⚡ 2022 Goal: Contribute to Open Source projects.
 
