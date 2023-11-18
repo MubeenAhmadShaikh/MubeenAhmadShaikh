@@ -17,6 +17,7 @@ Cloud: AWS
 CI/CD: Jenkins
 Containerization: Docker
 Other: Web Development
+
 🔧 Highlights:
 
 Successfully executed comprehensive test strategies for diverse projects.
