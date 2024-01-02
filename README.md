@@ -4,9 +4,9 @@
 ## Hello People, I'm Mubeen 👋
 
 A learning enthusiast 🎯
-🚀 Senior Software Tester | Python Enthusiast | Automation
+🚀 Software Test Engineer | Python Enthusiast | Automation
 
-Greetings! I'm Mubeen, a seasoned Senior Software Tester with a passion for crafting efficient testing solutions. My expertise lies in Python, Selenium, Pytest, and designing scalable frameworks for Automation Testing. I specialize in both Web and API Automation, ensuring the seamless functioning of applications.
+Greetings! I'm Mubeen, a seasoned  Software Test Engineer with a passion for crafting efficient testing solutions. My expertise lies in Python, Selenium, Pytest, and designing scalable frameworks for Automation Testing. I specialize in both Web and API Automation, ensuring the seamless functioning of applications.
 
 🛠️ Tech Stack:
 
