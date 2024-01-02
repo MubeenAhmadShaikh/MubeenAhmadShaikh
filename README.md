@@ -21,9 +21,7 @@ Other: Web Development
 🔧 Highlights:
 
 Successfully executed comprehensive test strategies for diverse projects.
-Proficient in leveraging AWS Cloud for testing scalability and reliability.
-Expertise in CI/CD pipelines, utilizing Jenkins for seamless integration.
-Containerization enthusiast, utilizing Docker for efficient testing environments.
+Containerization for projects utilizing Docker for efficient testing environments.
 Well-versed in Web Development, providing a holistic understanding of software ecosystems.
 Let's collaborate and elevate your software quality! 💻🧪
 
